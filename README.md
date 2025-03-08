@@ -1,10 +1,12 @@
 # dbeaver-dark-theme
 
+**EN** | [RU](README_RU.md)
+
 ## 1. Description
 
-This is fix for dark theme in DBeaver to be used with system dark theme (tested on Arch Linux KDE with Dark Breeze theme).
+This is fix for dark theme in DBeaver to be used with system dark theme (tested on Arch Linux KDE Plasma with Dark Breeze theme).
 
-Dbeaver has bad dark theme integration in KDE Plasma. If you apply default DBeaver's theme, you will get missing button names:
+DBeaver has bad dark theme integration in KDE Plasma. If you apply default DBeaver's theme, you will get missing button names:
 
 ![DBeaver theme default](./.readme_images/dbeaver_theme_default.png)
 
